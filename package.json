@@ -1,0 +1,13 @@
+{
+  "name": "45-questions",
+  "version": "1.0.0",
+  "description": "MY 45 QUESTIONS ASSIGNMENT",
+  "main": "45-questions.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RAHEEM VEER",
+  "license": "MIT"
+}
